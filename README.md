@@ -3,7 +3,7 @@
 <p>사용자 경험에 관심이 많고, 읽기 좋은 코드에 대해 고민하며 개발을 진행하고 있습니다.</p>
 
 ### Skiils
-<img src="https://img.shields.io/badge/Angular-D20026?style=flat-square&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-D20026?style=flat-square&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <!--
 **SEMIN-97/semin-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
