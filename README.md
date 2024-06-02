@@ -1,9 +1,12 @@
 <a href="https://mini-space.tistory.com/"><img src="https://img.shields.io/badge/Blog-FC413A?style=flat-square&logo=tistory&logoColor=white"/></a> <a href="mailto:jsemin1021@gmail.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=gmail&logoColor=white"/></a>
 <p>안녕하세요. 3년차 프론트엔드 개발자 조세민입니다.</p>
-<p>사용자 경험에 관심이 많고, 읽기 좋은 코드에 대해 고민하며 개발을 진행하고 있습니다.</p>
+<p>UI/UX를 넘어 인클루시브 디자인에 관심을 두고 있습니다.</p>
+<p>읽기 좋은 코드를 지향합니다.</p>
+
+---
 
 ### Skiils
-<img src="https://img.shields.io/badge/Angular-D20026?style=flat-square&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-D20026?style=flat-square&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
 <!--
 **SEMIN-97/semin-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
