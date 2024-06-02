@@ -1,4 +1,7 @@
 <a href="https://mini-space.tistory.com/"><img src="https://img.shields.io/badge/Blog-FC413A?style=flat-square&logo=tistory&logoColor=white"/></a> <a href="mailto:jsemin1021@gmail.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+[📖 이력서](https://www.rallit.com/resumes/1137134@sm1021_/%EC%A1%B0%EC%84%B8%EB%AF%BC?theme=STANDARD)
+
 <p>안녕하세요. 3년차 프론트엔드 개발자 조세민입니다.</p>
 <p>UI/UX를 넘어 인클루시브 디자인에 관심을 두고 있습니다.</p>
 <p>읽기 좋은 코드를 지향합니다.</p>
